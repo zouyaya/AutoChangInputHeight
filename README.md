@@ -1,0 +1,2 @@
+# AutoChangInputHeight
+一个非常好的demo，TableViewCell根据输入的内容动态的改变高度，效果和钉钉日报比较相似
